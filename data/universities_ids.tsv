@@ -1,0 +1,1226 @@
+id	University	university
+6	University of Graz	Univ Graz
+8	Graz University of Technology	Graz Univ Technol
+10	University of Innsbruck	Univ Innsbruck
+14	Johannes Kepler University Linz	Johannes Kepler Univ Linz
+15	University of Salzburg	Univ Salzburg
+19	Vienna University of Technology	Vienna Univ Technol
+21	University of Natural Resources and Life Sciences, Vienna	Univ Nat Resources & Life Sci - Vienna
+22	University of Veterinary Medicine Vienna	Univ Vet Med Vienna
+24	University of Vienna	Univ Vienna
+35	University of Antwerp	Univ Antwerp
+36	Vrije Universiteit Brussel	Vrije Univ Brussel
+40	Université Libre de Bruxelles	Univ Libre Bruxelles
+41	Hasselt University	Hasselt Univ
+42	Ghent University	Ghent Univ
+43	Katholieke Universiteit Leuven	Katholieke Univ Leuven
+44	University of Liège	Univ Liège
+45	Université Catholique de Louvain	Univ Catholique Louvain
+55	University of Novi Sad	Univ Novi Sad
+78	University of Zagreb	Univ Zagreb
+81	University of Cyprus	Univ Cyprus
+82	Brno University of Technology	Brno Univ Technol
+84	Masaryk University	Masaryk Univ
+89	Palacký University Olomouc	Palacký Univ Olomouc
+95	Charles University	Charles Univ
+97	Czech Technical University in Prague	Czech Tech Univ Prague
+98	University of Chemistry and Technology, Prague	Univ Chem & Technol - Prague
+99	Czech University of Life Sciences Prague	Czech Univ Life Sci Prague
+101	Aalborg University	Aalborg Univ
+102	Aarhus University	Aarhus Univ
+109	University of Copenhagen	Univ Copenhagen
+111	Technical University of Denmark	Tech Univ Denmark
+112	University of Southern Denmark	Univ South Denmark
+117	University of Tartu	Univ Tartu
+118	Åbo Akademi University	Åbo Akademi Univ
+123	University of Helsinki	Univ Helsinki
+125	University of Jyväskylä	Univ Jyväskylä
+128	University of Oulu	Univ Oulu
+131	University of Tampere	Univ Tampere
+133	University of Turku	Univ Turku
+156	University of Macau	Univ Macau
+167	Universiti Kebangsaan Malaysia	Univ Kebangsaan Malaysia
+168	Autonomous University of Nuevo Leon	Autonomous Univ Nuevo Leon
+210	RWTH Aachen University	RWTH Aachen Univ
+214	University of Bayreuth	Univ Bayreuth
+215	Freie Universität Berlin	Freie Univ Berlin
+216	Humboldt-Universität zu Berlin	Humboldt Univ Berlin
+217	Technische Universität Berlin	Tech Univ Berlin
+218	Bielefeld University	Bielefeld Univ
+219	Ruhr-Universität Bochum	Ruhr-Univ Bochum
+220	University of Bonn	Univ Bonn
+222	Technische Universität Braunschweig	Tech Univ Braunschweig
+223	University of Bremen	Univ Bremen
+224	Chemnitz University of Technology	Chemnitz Univ Technol
+226	Technische Universität Darmstadt	Tech Univ Darmstadt
+227	TU Dortmund University	TU Dortmund Univ
+228	Technische Universität Dresden	Tech Univ Dresden
+229	Heinrich Heine University Düsseldorf	Heinrich Heine Univ Düsseldorf
+232	Friedrich-Alexander-Universität Erlangen-Nürnberg	Friedrich-Alexander-Univ Erlangen-Nürnberg
+233	University of Duisburg-Essen	Univ Duisburg-Essen
+235	Goethe University Frankfurt	Goethe Univ Frankfurt
+236	University of Freiburg	Univ Freiburg
+237	Justus Liebig University Giessen	Justus Liebig Univ Giessen
+238	Georg-August-Universität Göttingen	Georg-August-Univ Göttingen
+239	University of Greifswald	Univ Greifswald
+243	Universität Hamburg	Univ Hamburg
+244	Hannover Medical School	Hannover Med Sch
+245	Gottfried Wilhelm Leibniz Universität Hannover	Gottfried Wilhelm Leibniz Univ Hannover
+246	Heidelberg University	Heidelberg Univ
+247	Friedrich Schiller University Jena	Friedrich Schiller Univ Jena
+248	Technische Universität Kaiserslautern	Tech Univ Kaiserslautern
+250	University of Kassel	Univ Kassel
+251	Kiel University	Kiel Univ
+252	University of Cologne	Univ Cologne
+253	University of Konstanz	Univ Konstanz
+254	Leipzig University	Leipzig Univ
+256	Otto von Guericke University Magdeburg	Otto von Guericke Univ Magdeburg
+257	Johannes Gutenberg University Mainz	Johannes Gutenberg Univ Mainz
+259	Ludwig-Maximilians-Universität München	Ludwig-Maximilians Univ München
+260	Technical University of Munich	Tech Univ Munich
+261	Carl von Ossietzky University of Oldenburg	Carl von Ossietzky Univ Oldenburg
+263	Paderborn University	Paderborn Univ
+265	University of Potsdam	Univ Potsdam
+266	Universität Regensburg	Univ Regensburg
+267	Saarland University	Saarland Univ
+269	University of Stuttgart	Univ Stuttgart
+270	Eberhard Karls University of Tübingen	Eberhard Karls Univ Tübingen
+273	Julius-Maximilians-Universität Würzburg	Julius Maximilian Univ Würzburg
+275	University of Aberdeen	Univ Aberdeen
+276	University of Bath	Univ Bath
+277	University of Birmingham	Univ Birmingham
+280	University of Bristol	Univ Bristol
+281	University of the West of England Bristol	Univ W England - Bristol
+282	University of Cambridge	Univ Cambridge
+283	University of Kent	Univ Kent
+286	University of Essex	Univ Essex
+287	University of Ulster	Univ Ulster
+288	Coventry University	Coventry Univ
+289	The University of Warwick	Univ Warwick
+290	Cranfield University	Cranfield Univ
+291	University of Dundee	Univ Dundee
+293	Durham University	Durham Univ
+295	Heriot-Watt University	Heriot-Watt Univ
+296	The University of Edinburgh	Univ Edinburgh
+299	University of Exeter	Univ Exeter
+301	University of Glasgow	Univ Glasgow
+302	University of Strathclyde	Univ Strathclyde
+303	University of Surrey	Univ Surrey
+305	University of Hull	Univ Hull
+306	Keele University	Keele Univ
+309	University of Leeds	Univ Leeds
+311	University of Leicester	Univ Leicester
+314	Liverpool John Moores University	Liverpool John Moores Univ
+315	University of Liverpool	Univ Liverpool
+316	City, University London	City Univ London
+318	Imperial College London	Imperial Coll London
+320	London School of Hygiene & Tropical Medicine	London Sch Hyg & Trop Med
+325	University College London	Univ Coll London
+326	University of Greenwich	Univ Greenwich
+330	Loughborough University	Loughborough Univ
+331	Manchester Metropolitan University	Manchester Metropolitan Univ
+332	The University of Manchester	Univ Manchester
+334	The Open University	Open Univ
+335	Newcastle University	Newcastle Univ
+337	University of Nottingham	Univ Nottingham
+339	University of Oxford	Univ Oxford
+341	University of Plymouth	Univ Plymouth
+344	University of Portsmouth	Univ Portsmouth
+348	The University of Sheffield	Univ Sheffield
+349	University of Southampton	Univ Southampton
+351	University of Stirling	Univ Stirling
+353	Royal Holloway, University of London	Roy Holloway - Univ London
+354	Swansea University	Swansea Univ
+355	Brunel University London	Brunel Univ London
+357	University of York	Univ York
+362	National and Kapodistrian University of Athens	Natl & Kapodistrian Univ Athens
+363	National Technical University of Athens	Natl Tech Univ Athens
+365	University of Ioannina	Univ Ioannina
+366	University of Crete	Univ Crete
+367	Democritus University of Thrace	Democritus Univ Thrace
+369	University of Patras	Univ Patras
+371	Aristotle University of Thessaloniki	Aristotle Univ Thessaloniki
+373	University of Thessaly	Univ Thessaly
+375	University of Windsor	Univ Windsor
+378	Budapest University of Technology and Economics	Budapest Univ Technol & Econ
+382	Eötvös Loránd University	Eötvös Loránd Univ
+384	Semmelweis University	Semmelweis Univ
+385	University of Debrecen	Univ Debrecen
+389	University of Pécs	Univ Pécs
+391	University of Szeged	Univ Szeged
+394	University of Iceland	Univ Iceland
+395	University College Cork	Univ Coll Cork
+399	Trinity College Dublin, The University of Dublin	Trinity Coll Dublin
+400	University College Dublin	Univ Coll Dublin
+401	Dublin City University	Dublin City Univ
+402	National University of Ireland, Galway	Natl Univ Ireland - Galway
+403	University of Limerick	Univ Limerick
+405	Università Politecnica delle Marche	Univ Politec Marche
+407	University of Bari Aldo Moro	Univ Bari Aldo Moro
+409	University of Bologna	Univ Bologna
+410	Brescia University	Brescia Univ
+411	University of Cagliari	Univ Cagliari
+416	University of Catania	Univ Catania
+417	Gabriele D'Annunzio University	Gabriele d'Annunzio Univ
+418	University of Ferrara	Univ Ferrara
+419	University of Florence	Univ Florence
+421	University of Genoa	Univ Genoa
+422	University of L'Aquila	Univ l'Aquila
+423	Università del Salento	Univ Salento
+424	University of Messina	Univ Messina
+426	Politecnico di Milano	Politec Milano
+427	Università Cattolica del Sacro Cuore	Univ Cattolica Sacro Cuore
+429	University of Milan	Univ Milan
+430	University of Milano-Bicocca	Univ Milano-Bicocca
+431	University of Modena and Reggio Emilia	Univ Modena & Reggio Emilia
+433	"University of Campania ""Luigi Vanvitelli"""	Univ Campania Luigi Vanvitelli
+435	University of Naples Federico II	Univ Naples Federico II
+436	University of Padova	Univ Padova
+437	University of Palermo	Univ Palermo
+438	University of Parma	Univ Parma
+439	University of Pavia	Univ Pavia
+441	University of Pisa	Univ Pisa
+446	Sapienza University of Rome	Sapienza Univ Rome
+447	University of Rome Tor Vergata	Univ Rome Tor Vergata
+448	Roma Tre University	Roma Tre Univ
+450	University of Sassari	Univ Sassari
+451	University of Siena	Univ Siena
+453	Politecnico di Torino	Politec Torino
+454	University of Turin	Univ Turin
+455	University of Trento	Univ Trento
+456	University of Trieste	Univ Trieste
+457	University of Udine	Univ Udine
+461	University of Verona	Univ Verona
+472	Vilnius University	Vilnius Univ
+473	University of Luxembourg	Univ Luxembourg
+479	University of Amsterdam	Univ Amsterdam
+480	Vrije Universiteit Amsterdam	Vrije Univ Amsterdam
+482	Delft University of Technology	Delft Univ Technol
+483	Eindhoven University of Technology	Eindhoven Univ Technol
+484	University of Twente	Univ Twente
+485	University of Groningen	Univ Groningen
+487	Leiden University	Leiden Univ
+488	Maastricht University	Maastricht Univ
+489	Radboud University	Radboud Univ
+490	Erasmus University Rotterdam	Erasmus Univ Rotterdam
+491	Tilburg University	Tilburg Univ
+493	Utrecht University	Utrecht Univ
+494	Wageningen University & Research	Wageningen Univ & Res
+495	Norwegian University of Life Sciences	Norwegian Univ Life Sci
+497	University of Bergen	Univ Bergen
+499	University of Oslo	Univ Oslo
+500	University of Stavanger	Univ Stavanger
+501	UiT The Arctic University of Norway	UiT Artic Univ Norway
+502	Norwegian University of Science and Technology	Norwegian Univ Sci & Technol
+506	Gdańsk University of Technology	Gdańsk Univ Technol
+507	University of Gdańsk	Univ Gdańsk
+509	Silesian University of Technology	Silesian Univ Technol
+511	Medical University of Silesia	Med Univ Silesia
+512	University of Silesia in Katowice	Univ Silesia Katowice
+514	AGH University of Science and Technology	AGH Univ Sci & Technol
+516	Jagiellonian University	Jagiellonian Univ
+517	Łódź University of Technology	Łódź Univ Technol
+518	University of Łódź	Univ Łódź
+519	Maria Curie-Sklodowska University	Maria Curie-Sklodowska Univ
+521	University of Warmia and Mazury in Olsztyn	Univ Warmia & Mazury Olsztyn
+522	Adam Mickiewicz University in Poznań	Adam Mickiewicz Univ Poznan
+525	Poznań University of Medical Sciences	Poznań Univ Med Sci
+526	Poznań University of Technology	Poznań Univ Technol
+531	Nicolaus Copernicus University in Toruń	Nicolaus Copernicus Univ Toruń
+536	Medical University of Warsaw	Med Univ Warsaw
+538	University of Warsaw	Univ Warsaw
+539	Warsaw University of Technology	Warsaw Univ Technol
+540	Warsaw University of Life Sciences	Warsaw Univ Life Sci
+541	Wroclaw University of Environmental and Life Sciences	Wrocław Univ Environ & Life Sci
+542	University of Wrocław	Univ Wrocław
+543	Wrocław Medical University	Wrocław Med Univ
+545	Wrocław University of Science and Technology	Wrocław Univ Sci & Technol
+547	University of Aveiro	Univ Aveiro
+548	University of Minho	Univ Minho
+549	University of Coimbra	Univ Coimbra
+559	Universidade Nova de Lisboa	Univ Nova Lisboa
+561	University of Porto	Univ Porto
+570	University of Bucharest	Univ Bucharest
+571	Polytechnic University of Bucharest	Polytech Univ Bucarest
+572	Babeș-Bolyai University	Babeș-Bolyai Univ
+592	Nagoya Institute of Technology	Nagoya Inst Technol
+594	Yokohama National University	Yokohama Natl Univ
+608	Comenius University in Bratislava	Comenius Univ Bratislava
+611	Slovak University of Technology in Bratislava	Slovak Univ Technol Bratislava
+619	University of Ljubljana	Univ Ljubljana
+620	University of Maribor	Univ Maribor
+621	University of Alcalá	Univ Alcalá
+622	University of Alicante	Univ Alicante
+623	University of Extremadura	Univ Extremadura
+625	Universitat Autònoma de Barcelona	Univ Aut Barcelona
+626	University of Barcelona	Univ Barcelona
+627	Universitat Politècnica de Catalunya, BarcelonaTech	Univ Politècnica Catalunya - BarcelonaTech
+628	Pompeu Fabra University	Pompeu Fabra Univ
+631	University of Cádiz	Univ Cádiz
+634	University of Castilla-La Mancha	Univ Castilla-La Mancha
+635	University of Cordoba	Univ Cordoba
+637	University of Girona	Univ Girona
+638	University of Granada	Univ Granada
+640	University of Jaén	Univ Jaén
+641	University of A Coruña	Univ A Coruña
+642	Universidad de La Laguna	Univ La Laguna
+643	University of Las Palmas de Gran Canaria	Univ Las Palmas Gran Canaria
+644	University of the Basque Country	Univ Basque Country
+646	University of Lleida	Univ Lleida
+648	Universidad Autónoma de Madrid	Univ Aut Madrid
+649	Complutense University of Madrid	Complutense Univ Madrid
+650	National Distance Education University	Natl Distance Educ Univ
+651	Technical University of Madrid	Tech Univ Madrid
+654	University of Malaga	Univ Malaga
+655	Rey Juan Carlos University	Rey Juan Carlos Univ
+656	University of Murcia	Univ Murcia
+657	University of Oviedo	Univ Oviedo
+658	University of the Balearic Islands	Univ Balearic Islands
+659	University of Navarra	Univ Navarra
+662	University of Salamanca	Univ Salamanca
+663	University of Cantabria	Univ Cantabria
+664	University of Santiago de Compostela	Univ Santiago Compostela
+665	University of Seville	Univ Seville
+666	Universitat Rovira i Virgili	Univ Rovira & Virgili
+667	Universitat Politècnica de València	Univ Politècnica València
+668	University of Valencia	Univ Valencia
+669	University of Valladolid	Univ Valladolid
+670	Universidade de Vigo	Univ Vigo
+671	University of Zaragoza	Univ Zaragoza
+672	Chalmers University of Technology	Chalmers Univ Technol
+673	University of Gothenburg	Univ Gothenburg
+677	Linköping University	Linköping Univ
+678	Luleå University of Technology	Luleå Univ Technol
+679	Lund University	Lund Univ
+682	Örebro University	Örebro Univ
+684	Karolinska Institutet	Karolinska Inst
+685	KTH Royal Institute of Technology	KTH Royal Inst Technol
+687	Stockholm University	Stockholm Univ
+688	Umeå University	Umeå Univ
+689	Uppsala University	Uppsala Univ
+690	University of Basel	Univ Basel
+693	University of Bern	Univ Bern
+695	University of Fribourg	Univ Fribourg
+696	University of Geneva	Univ Geneva
+697	Ecole Polytechnique Fédérale de Lausanne	Ecole Polytech Féd Lausanne
+698	University of Lausanne	Univ Lausanne
+703	Eidgenössische Technische Hochschule Zürich	ETH Zurich
+704	University of Zurich	Univ Zurich
+705	Çukurova University	Çukurova Univ
+706	Sakarya University	Sakarya Univ
+707	Ankara University	Ankara Univ
+708	Bilkent University	Bilkent Univ
+710	Gazi University	Gazi Univ
+711	Hacettepe University	Hacettepe Univ
+712	Middle East Technical University	Middle E Tech Univ
+715	Akdeniz University	Akdeniz Univ
+718	Bursa Uludağ University	Bursa Uludağ Univ
+719	Pamukkale University	Pamukkale Univ
+722	Fırat University	Fırat Univ
+723	Atatürk University	Atatürk Univ
+726	Süleyman Demirel University	Süleyman Demirel Univ
+727	Boğaziçi University	Boğaziçi Univ
+730	İstanbul Technical University	İstanbul Tech Univ
+731	İstanbul University	İstanbul Univ
+732	Marmara University	Marmara Univ
+735	Yıldız Technical University	Yıldız Tech Univ
+736	Dokuz Eylül University	Dokuz Eylül Univ
+737	Ege University	Ege Univ
+739	Selçuk University	Selçuk Univ
+740	Erciyes University	Erciyes Univ
+741	Kocaeli University	Kocaeli Univ
+743	İnönü University	İnönü Univ
+747	Samsun Ondokuz Mayis University	Samsun Ondokuz Mayis Univ
+749	Karadeniz Technical University	Karadeniz Tech Univ
+750	Yüzüncü Yıl University	Yüzüncü Yıl Univ
+781	Queen's University Belfast	Queen's Univ Belfast
+785	University of Sussex	Univ Sussex
+790	Aston University	Aston Univ
+793	University of Huddersfield	Univ Huddersfield
+794	Lancaster University	Lancaster Univ
+796	Northumbria University	Northumbria Univ
+797	University of East Anglia	Univ E Anglia
+800	University of Reading	Univ Reading
+802	University of St Andrews	Univ St Andrews
+807	Politecnico di Bari	Politecnico Bari
+811	University of Insubria	Univ Insubria
+812	University of Perugia	Univ Perugia
+813	University of Salerno	Univ Salerno
+818	Vita-Salute San Raffaele University	Vita-Salute San Raffaele Univ
+846	King's College London	King's Coll London
+848	Bangor University	Bangor Univ
+849	Cardiff University	Cardiff Univ
+854	Swedish University of Agricultural Sciences	Swed Univ Agr Sci
+876	Martin Luther University Halle-Wittenberg	Martin Luther Univ Halle-Wittenberg
+877	University of Hohenheim	Univ Hohenheim
+878	Universität zu Lübeck	Univ Lübeck
+880	Philipps-Universität Marburg	Philipps-Univ Marburg
+882	Technische Universität Bergakademie Freiberg	Techn Univ Bergakad Freiberg
+883	University of Münster	Univ Münster
+884	University of Rostock	Univ Rostock
+885	Ulm University	Ulm Univ
+916	The Hebrew University of Jerusalem	Hebrew Univ Jerusalem
+920	Bar-Ilan University	Bar-Ilan Univ
+921	Tel Aviv University	Tel Aviv Univ
+922	Ben-Gurion University of the Negev	Ben-Gurion Univ Negev
+924	University of Haifa	Univ Haifa
+947	Medical University of Białystok	Med Univ Białystok
+958	Medical University of Lublin	Med Univ Lublin
+959	Medical University of Łódź	Med Univ Lódz
+960	Medical University of Gdańsk	Med Univ Gdansk
+962	University of Agriculture in Kraków	Univ Agr Kraków
+963	University of Life Sciences in Lublin	Univ Life Sci Lublin
+964	Poznań University of Life Sciences	Poznań Univ Life Sci
+975	West Pomeranian University of Technology, Szczecin	W Pomeranian Univ Technol - Szczecin
+989	Carlos III University of Madrid	Carlos III Univ Madrid
+998	Miguel Hernández University	Miguel Hernández Univ
+1002	Universidad de Almería	Univ Almería
+1003	Universitat Jaume I	Univ Jaume I
+1014	Anadolu University	Anadolu Univ
+1015	Koç University	Koç Univ
+1016	Başkent University	Başkent Univ
+1033	Eskişehir Osmangazi University	Eskişehir Osmangazi Univ
+1034	Queen Mary University of London	Queen Mary Univ London
+1037	London School of Economics and Political Science	London Sch Econ & Polit Sci
+1046	Technion, Israel Institute of Technology	Technion - Israel Inst Technol
+1047	Weizmann Institute of Science	Weizmann Inst Sci
+1052	University of Buenos Aires	Univ Buenos Aires
+1053	Universidad Nacional de La Plata	Univ Nal La Plata
+1054	University of Adelaide	Univ Adelaide
+1055	University of Queensland	Univ Queensland
+1056	Australian National University	Australian Natl Univ
+1057	Monash University	Monash Univ
+1058	University of Melbourne	Univ Melbourne
+1059	University of Newcastle	Univ Newcastle
+1060	University of Western Australia	Univ West Australia
+1061	University of New South Wales	Univ New S Wales
+1062	University of Sydney	Univ Sydney
+1063	Universidade Federal de Minas Gerais	Univ Fed Minas Gerais
+1064	University of Campinas	Univ Campinas
+1065	Federal University of Rio Grande do Sul	Fed Univ Rio Grande do Sul
+1066	Universidade Federal do Rio de Janeiro	Univ Fed Rio de Janeiro
+1067	University of São Paulo	Univ São Paulo
+1068	Simon Fraser University	Simon Fraser Univ
+1069	University of Calgary	Univ Calgary
+1070	University of Alberta	Univ Alberta
+1071	University of Guelph	Univ Guelph
+1072	Dalhousie University	Dalhousie Univ
+1073	McMaster University	McMaster Univ
+1074	Queen's University	Queen's Univ
+1075	Western University	West Univ
+1076	McGill University	McGill Univ
+1077	Université de Montréal	Univ Montréal
+1078	Carleton University	Carleton Univ
+1079	University of Ottawa	Univ Ottawa
+1081	University of Saskatchewan	Univ Saskatchewan
+1082	Université Laval	Univ Laval
+1083	University of Toronto	Univ Toronto
+1084	University of British Columbia	Univ British Columbia
+1085	University of Victoria	Univ Victoria
+1086	University of Waterloo	Univ Waterloo
+1087	University of Manitoba	Univ Manitoba
+1088	University of Chile	Univ Chile
+1091	Chiba University	Chiba Univ
+1092	Kyushu University	Kyushu Univ
+1093	Gifu University	Gifu Univ
+1095	Hiroshima University	Hiroshima Univ
+1096	Kagoshima University	Kagoshima Univ
+1097	Kanazawa University	Kanazawa Univ
+1098	Kobe University	Kobe Univ
+1099	Kumamoto University	Kumamoto Univ
+1100	Kyoto University	Kyoto Univ
+1101	Nagasaki University	Nagasaki Univ
+1102	Nagoya University	Nagoya Univ
+1103	Niigata University	Niigata Univ
+1104	Okayama University	Okayama Univ
+1105	Osaka City University	Osaka City Univ
+1106	Osaka University	Osaka Univ
+1107	Hokkaido University	Hokkaido Univ
+1108	Tohoku University	Tohoku Univ
+1110	Tokushima University	Tokushima Univ
+1111	Keio University	Keio Univ
+1112	Tokyo Institute of Technology	Tokyo Inst Technol
+1113	Tokyo Medical and Dental University	Tokyo Med & Dent Univ
+1114	The University of Tokyo	Univ Tokyo
+1115	Waseda University	Waseda Univ
+1117	Mie University	Mie Univ
+1118	University of Tsukuba	Univ Tsukuba
+1121	National Autonomous University of Mexico	Natl Auto Univ Mexico
+1122	University of Auckland	Univ Auckland
+1123	University of Otago	Univ Otago
+1124	Peking University	Peking Univ
+1125	Tsinghua University	Tsinghua Univ
+1126	Jilin University	Jilin Univ
+1127	Zhejiang University	Zhejiang Univ
+1128	University of Science and Technology of China	Univ Sci & Technol China
+1129	Chinese University of Hong Kong	Chinese Univ Hong Kong
+1130	City University of Hong Kong	City Univ Hong Kong
+1131	Hong Kong Polytechnic University	Hong Kong Polytech Univ
+1132	Hong Kong University of Science and Technology	Hong Kong Univ Sci & Technol
+1133	University of Hong Kong	Univ Hong Kong
+1134	Shandong University	Shandong Univ
+1135	Lanzhou University	Lanzhou Univ
+1136	Nanjing University	Nanjing Univ
+1137	Fudan University	Fudan Univ
+1138	Shanghai Jiao Tong University	Shanghai Jiao Tong Univ
+1139	Nankai University	Nankai Univ
+1140	Huazhong University of Science and Technology	Huazhong Univ Sci & Technol
+1141	Wuhan University	Wuhan Univ
+1142	Lomonosov Moscow State University	Lomonosov Moscow State Univ
+1143	Saint Petersburg State University	St Petersburg State Univ
+1144	Nanyang Technological University	Nanyang Technol Univ
+1145	National University of Singapore	Natl Univ Singapore
+1146	University of Cape Town	Univ Cape Town
+1147	University of the Witwatersrand	Univ Witwatersrand
+1163	University of New Mexico	Univ New Mexico
+1164	Iowa State University	Iowa State Univ
+1165	University of Massachusetts Amherst	Univ Massachusetts Amherst
+1166	University of Michigan	Univ Michigan
+1167	University of Georgia, Athens	Univ Georgia - Athens
+1168	Emory University	Emory Univ
+1169	Georgia Institute of Technology	Georgia Inst Technol
+1170	Auburn University	Auburn Univ
+1172	University of Texas at Austin	Univ Texas - Austin
+1173	Johns Hopkins University	Johns Hopkins Univ
+1174	University of Maryland, Baltimore	Univ Maryland - Baltimore
+1175	Louisiana State University	Louisiana State Univ
+1176	University of California, Berkeley	Univ California - Berkeley
+1177	University of Alabama, Birmingham	Univ Alabama - Birmingham
+1178	Virginia Polytechnic Institute and State University	Virginia Tech
+1179	Indiana University, Bloomington	Indiana Univ - Bloomington
+1180	Boston University	Boston Univ
+1182	Northeastern University, USA	Northeastern Univ - USA
+1183	Tufts University	Tufts Univ
+1184	University of Colorado, Boulder	Univ Colorado - Boulder
+1185	University at Buffalo, The State University of New York	Univ Buffalo - SUNY
+1186	University of Vermont	Univ Vermont
+1187	Harvard University	Harvard Univ
+1188	Massachusetts Institute of Technology	MIT
+1189	University of North Carolina, Chapel Hill	Univ N Carolina - Chapel Hill
+1190	Medical University of South Carolina	Med Univ S Carolina
+1191	University of Virginia	Univ Virginia
+1192	Northwestern University	Northwestern Univ
+1193	University of Chicago	Univ Chicago
+1194	University of Illinois, Chicago	Univ Illinois - Chicago
+1195	University of Cincinnati	Univ Cincinnati
+1196	Clemson University	Clemson Univ
+1197	Case Western Reserve University	Case West Reserve Univ
+1198	University of Maryland, College Park	Univ Maryland - College Park
+1199	Texas A&M University, College Station	Texas A&M Univ - College Stn
+1200	University of Missouri, Columbia	Univ Missouri - Columbia
+1201	University of South Carolina, Columbia	Univ S Carolina - Columbia
+1202	Ohio State University	Ohio State Univ
+1203	Oregon State University	Oregon State Univ
+1204	University of Texas at Dallas	Univ Texas - Dallas
+1205	University of California, Davis	Univ California - Davis
+1206	University of Colorado, Denver	Univ Colorado - Denver
+1207	Wayne State University	Wayne State Univ
+1208	Duke University	Duke Univ
+1209	University of Oregon	Univ Oregon
+1212	University of Arkansas, Fayetteville	Univ Arkansas - Fayetteville
+1213	Colorado State University	Colorado State Univ
+1214	University of Florida	Univ Florida
+1215	University of Texas Medical Branch at Galveston	Univ Texas - Med Branch - Galveston
+1216	Dartmouth College	Dartmouth Coll
+1218	University of Hawaii, Manoa	Univ Hawaii - Manoa
+1219	Baylor College of Medicine	Baylor Coll Med
+1220	Rice University	Rice Univ
+1221	University of Houston	Univ Houston - Houston
+1222	University of Texas Health Science Center at Houston	Univ Texas - Hlth Sci Ctr - Houston
+1223	Indiana University - Purdue University Indianapolis	Indiana Univ - Purdue Univ Indianapolis
+1224	University of Iowa	Univ Iowa
+1225	University of California, Irvine	Univ California - Irvine
+1226	Cornell University	Cornell Univ
+1228	University of Tennessee, Knoxville	Univ Tennessee - Knoxville
+1230	Purdue University, West Lafayette	Purdue Univ - W Lafayette
+1231	Michigan State University	Michigan State Univ
+1232	University of Kansas	Univ Kansas
+1233	University of Kentucky	Univ Kentucky
+1234	University of Nebraska, Lincoln	Univ Nebraska - Lincoln
+1235	University of Arkansas for Medical Sciences, Little Rock	Univ Arkansas Med Sci - Little Rock
+1237	University of California, Los Angeles	Univ California - Los Angeles
+1238	University of Southern California	Univ South California
+1239	University of Louisville	Univ Louisville
+1240	Texas Tech University	Texas Tech Univ
+1241	University of Wisconsin, Madison	Univ Wisconsin - Madison
+1242	Kansas State University	Kansas State Univ
+1243	Loyola University Chicago	Loyola Univ Chicago
+1245	University of Miami	Univ Miami
+1246	Medical College of Wisconsin	Med Coll Wisconsin
+1247	University of Minnesota, Twin Cities	Univ Minnesota - Twin Cities
+1248	West Virginia University	W Virginia Univ
+1249	Vanderbilt University	Vanderbilt Univ
+1251	Yale University	Yale Univ
+1253	Tulane University	Tulane Univ
+1255	Columbia University	Columbia Univ
+1258	Icahn School of Medicine, Mount Sinai	Icahn Sch Med - Mt Sinai
+1260	New York University	NYU
+1261	Rockefeller University	Rockefeller Univ
+1262	Yeshiva University	Yeshiva Univ
+1263	University of Delaware	Univ Delaware
+1265	University of Oklahoma	Univ Oklahoma
+1266	University of Notre Dame	Univ Notre Dame
+1269	California Institute of Technology	Caltech
+1270	Temple University	Temple Univ
+1271	Thomas Jefferson University	Thomas Jefferson Univ
+1272	University of Pennsylvania	Univ Penn
+1274	Carnegie Mellon University	Carnegie Mellon Univ
+1275	University of Pittsburgh	Univ Pittsburgh
+1276	Oregon Health & Science University	Oregon Hlth & Sci Univ
+1277	Princeton University	Princeton Univ
+1278	Brown University	Brown Univ
+1279	Brigham Young University	Brigham Young Univ
+1280	Washington State University	Washington State Univ
+1281	North Carolina State University	N Carolina State Univ
+1282	University of Nevada, Reno	Univ Nevada - Reno
+1283	Virginia Commonwealth University	Virginia Commonwealth Univ
+1284	University of California, Riverside	Univ California - Riverside
+1285	University of Rochester	Univ Rochester
+1286	University of Utah	Univ Utah
+1287	University of Texas at San Antonio	Univ Texas - San Antonio
+1288	University of California, San Diego	Univ California - San Diego
+1289	University of California, San Francisco	Univ California - San Francisco
+1290	University of California, Santa Barbara	Univ California - Santa Barbara
+1291	University of California, Santa Cruz	Univ California - Santa Cruz
+1292	University of Washington, Seattle	Univ Washington - Seattle
+1293	St Louis University	St Louis Univ
+1294	Washington University in St. Louis	Washington Univ St Louis
+1296	Stanford University	Stanford Univ
+1297	Oklahoma State University, Stillwater	Oklahoma State Univ - Stillwater
+1298	Stony Brook University, The State University of New York	Stony Brook Univ - SUNY
+1299	University of Connecticut	Univ Connecticut
+1300	Syracuse University	Syracuse Univ
+1301	Florida State University	Florida State Univ
+1302	University of South Florida, Tampa	Univ S Florida - Tampa
+1303	Arizona State University	Arizona State Univ
+1304	Rensselaer Polytechnic Institute	Rensselaer Polytech Inst
+1305	University of Arizona	Univ Arizona
+1306	University of Alabama, Tuscaloosa	Univ Alabama - Tuscaloosa
+1307	Pennsylvania State University	Penn State Univ
+1308	University of Illinois, Urbana-Champaign	Univ Illinois - Urbana-Champaign
+1309	George Washington University	George Washington Univ
+1310	Georgetown University	Georgetown Univ
+1311	Wake Forest University	Wake Forest Univ
+1312	University of Massachusetts Medical School	Univ Massachusetts Med Sch
+1315	Medical University of Graz	Med Univ Graz
+1316	Medical University of Innsbruck	Med Univ Innsbruck
+1317	Medical University of Vienna	Med Univ Vienna
+1318	Brandeis University	Brandeis Univ
+1335	Griffith University	Griffith Univ
+1336	RMIT University	RMIT Univ
+1337	University of South Australia	Univ S Australia
+1338	University of Technology, Sydney	Univ Technol - Sydney
+1339	Flinders University	Flinders Univ
+1349	Alexandria University	Alexandria Univ
+1363	Universiti Sains Malaysia	Univ Sains Malaysia
+1364	University of Guadalajara	Univ Guadalajara
+1371	HSE University	HSE Univ
+1373	King Abdulaziz University	King Abdulaziz Univ
+1374	King Saud University	King Saud Univ
+1375	King Fahd University of Petroleum and Minerals	King Fahd Univ Petrol & Minerals
+1379	University of Sfax	Univ Sfax
+1399	Karlsruhe Institute of Technology	Karlsruhe Inst Technol
+1400	Aalto University	Aalto Univ
+1407	Northwestern Polytechnical University	Northwestern Polytech Univ
+1408	Sichuan University	Sichuan Univ
+1409	Harbin Institute of Technology	Harbin Inst Technol
+1410	Dalian University of Technology	Dalian Univ Technol
+1411	Tianjin University	Tianjin Univ
+1412	Sun Yat-sen University	Sun Yat-sen Univ
+1413	Xiamen University	Xiamen Univ
+1414	Beijing Normal University	Beijing Normal Univ
+1415	China Agricultural University	China Agr Univ
+1416	Tongji University	Tongji Univ
+1417	Shanghai University	Shanghai Univ
+1418	East China University of Science and Technology	E China Univ Sci & Technol
+1419	Xi'an Jiaotong University	Xi'an Jiaotong Univ
+1431	University of Pretoria	Univ Pretoria
+1432	Stellenbosch University	Stellenbosch Univ
+1433	University of Wollongong	Univ Wollongong
+1434	University of Tasmania	Univ Tasmania
+1435	Queensland University of Technology	Queensland Univ Technol
+1436	La Trobe University	La Trobe Univ
+1437	Macquarie University	Macquarie Univ
+1438	Université de Sherbrooke	Univ Sherbrooke
+1439	Concordia University	Concordia Univ
+1440	York University	York Univ
+1441	Memorial University of Newfoundland	Mem Univ Newfoundland
+1442	Yokohama City University	Yokohama City Univ
+1443	Nihon University	Nihon Univ
+1444	Juntendo University	Juntendo Univ
+1451	Massey University	Massey Univ
+1452	University of Malaya	Univ Malaya
+1458	Pontificia Universidad Católica de Chile	Pontificia Univ Católica Chile
+1459	Universidade Federal de São Paulo	Univ Fed São Paulo
+1460	Universidade Federal de Santa Catarina	Univ Fed Santa Catarina
+1461	Universidade Estadual Paulista	Univ Estadual Paulista
+1462	University of Central Florida	Univ Cent Florida
+1463	Drexel University	Drexel Univ
+1464	University at Albany, The State University of New York	Univ Albany - SUNY
+1465	Georgia State University	Georgia State Univ
+1466	Utah State University	Utah State Univ
+1467	San Diego State University	San Diego State Univ
+1468	University of Toledo	Univ Toledo
+1469	Rush University	Rush Univ
+1470	University of Mississippi	Univ Mississippi
+1471	University of Wisconsin, Milwaukee	Univ Wisconsin - Milwaukee
+1472	University of New Hampshire	Univ New Hampshire
+1473	Mississippi State University	Mississippi State Univ
+1474	George Mason University	George Mason Univ
+1475	University of Belgrade	Univ Belgrade
+1476	Federal University of Mato Grosso	Fed Univ Mato Grosso
+1477	University of Eastern Finland	Univ East Finland
+1479	Universidade Federal do Paraná	Univ Fed Paraná
+1480	Universidade Federal de Viçosa	Univ Fed Viçosa
+1481	Federal University of Pernambuco	Fed Univ Pernambuco
+1482	Federal University of Santa Maria	Fed Univ Santa Maria
+1483	Universidade de Brasília	Univ Brasília
+1484	Universidade Federal do Ceará	Univ Fed Ceará
+1485	Federal University of São Carlos	Fed Univ São Carlos
+1486	Rio de Janeiro State University	Rio de Janeiro State Univ
+1487	State University of Maringá	State Univ Maringá
+1488	Universidade Federal da Bahia	Univ Fed Bahia
+1489	Universidade Federal Fluminense	Univ Fed Fluminense
+1490	Londrina State University	Londrina State Univ
+1491	Federal University of Uberlândia	Univ Fed Uberlândia
+1492	Universidade Federal de Goiás	Univ Fed Goiás
+1493	Federal University of Paraíba	Fed Univ Paraíba
+1494	Federal University of Lavras	Fed Univ Lavras
+1495	Federal University of Pelotas	Fed Univ Pelotas
+1497	Federal University of Para	Fed Univ Para
+1498	Federal University of Rio Grande do Norte	Fed Univ Rio Grande do Norte
+1501	University of the Free State	Univ Free State
+1502	University of KwaZulu-Natal	Univ KwaZulu-Natal
+1503	Rhodes University	Rhodes Univ
+1506	University of Johannesburg	Univ Johannesburg
+1507	North-West University	North-West Univ
+1515	Tehran University of Medical Sciences	Tehran Univ Med Sci
+1516	University of Tehran	Univ Tehran
+1517	Sharif University of Technology	Sharif Univ Technol
+1518	Shiraz University	Shiraz Univ
+1519	Tarbiat Modares University	Tarbiat Modares Univ
+1520	Amirkabir University of Technology	Amirkabir Univ Technol
+1521	Shiraz University of Medical Science	Shiraz Univ Med Sci
+1522	Isfahan University of Technology	Isfahan Univ Technol
+1523	Iran University of Science and Technology	Iran Univ Sci & Technol
+1524	University of Tabriz	Univ Tabriz
+1525	Shahid Beheshti University of Medical Sciences	Shahid Beheshti Univ Med Sci
+1526	Université du Québec à Montréal	Univ Quebec Montreal
+1528	Ain Shams University	Ain Shams Univ
+1529	Cairo University	Cairo Univ
+1530	Gunma University	Gunma Univ
+1532	University of Canterbury	Univ Canterbury
+1533	Central South University	Cent S Univ
+1534	Southeast University	Southeast Univ
+1535	East China Normal University	E China Normal Univ
+1536	South China University of Technology	S China Univ Technol
+1537	Hunan University	Hunan Univ
+1538	University of Science and Technology Beijing	Univ Sci & Technol Beijing
+1539	East Carolina University	E Carolina Univ
+1540	Florida International University	Florida Intl Univ
+1542	Ehime University	Ehime Univ
+1543	Kindai University	Kindai Univ
+1544	Kitasato University	Kitasato Univ
+1545	Shinshu University	Shinsu Univ
+1546	Tokai University	Tokai Univ
+1547	Tokyo University of Agriculture and Technology	Tokyo Univ Agr & Technol
+1548	Tottori University	Tottori Univ
+1549	Yamagata University	Yamagata Univ
+1550	Yamaguchi University	Yamaguchi Univ
+1552	University of Texas Health Science Center at San Antonio	Univ Texas - Hlth Sci Ctr - San Antonio
+1553	University of Texas Southwestern Medical Center at Dallas	Univ Texas - Southwestern Med Ctr - Dallas
+1555	University of Texas at Arlington	Univ Texas - Arlington
+1557	University of Texas at El Paso	Univ Texas - El Paso
+1577	James Cook University	James Cook Univ
+2335	Korea University	Korea Univ
+2340	Seoul National University	Seoul Natl Univ
+2347	Yonsei University	Yonsei Univ
+2354	Kyungpook National University	Kyungpook Natl Univ
+2357	Chonnam National University	Chonnam Natl Univ
+2361	Sungkyunkwan University	Sungkyunkwan Univ
+2369	Inha University	Inha Univ
+2371	Chungnam National University	Chungnam Natl Univ
+2373	Kyung Hee University	Kyung Hee Univ
+2380	Ewha Womans University	Ewha Womans Univ
+2383	Hanyang University	Hanyang Univ
+2389	University of Ulsan	Univ Ulsan
+2393	Ajou University	Ajou Univ
+2395	Jeonbuk National University	Jeonbuk Natl Univ
+2397	Catholic University of Korea	Cath Univ Korea
+2404	Konkuk University	Konkuk Univ
+2406	Korea Advanced Institute of Science and Technology	Korea Adv Inst Sci & Technol
+2407	Pohang University of Science and Technology	Pohang Univ Sci & Technol
+2408	Pusan National University	Pusan Natl Univ
+2415	National Central University	Natl Cent Univ
+2416	National Chiao Tung University	Natl Chiao Tung Univ
+2417	National Tsing Hua University	Natl Tsing Hua Univ
+2418	National Cheng Kung University	Natl Cheng Kung Univ
+2420	National Taiwan University	Natl Taiwan Univ
+2422	National Yang-Ming University	Natl Yang-Ming Univ
+2425	Chang Gung University	Chang Gung Univ
+2428	National Sun Yat-sen University	Natl Sun Yat-sen Univ
+2430	National Chung Hsing University	Natl Chung Hsing Univ
+2431	Kaohsiung Medical University	Kaohsiung Med Univ
+2434	National Taiwan University of Science & Technology	Natl Taiwan Univ Sci & Technol
+2435	Indian Institute of Science	Indian Inst Sci
+2436	Indian Institute of Technology Bombay	Indian Inst Technol Bombay
+2438	Manipal Academy of Higher Education	Manipal Acad High Educ
+2440	Vellore Institute of Technology	Vellore Inst Technol
+2441	Indian Institute of Technology Kharagpur	Indian Inst Technol Kharagpur
+2443	All India Institute of Medical Science	All India Inst Med Sci
+2445	Indian Institute of Technology Madras	Indian Inst Technol Madras
+2446	Indian Institute of Technology Delhi	Indian Inst Technol Delhi
+2448	Banaras Hindu University	Banaras Hindu Univ
+2451	Indian Institute of Technology Kanpur	Indian Inst Technol Kanpur
+2452	University of Delhi	Univ Delhi
+2454	Jadavpur University	Jadavpur Univ
+2455	Postgraduate Institute of Medical Education & Research	Postgrad Inst Med Educ & Res
+2458	Panjab University	Panjab Univ
+2460	Aligarh Muslim University	Aligarh Muslim Univ
+2461	University of Calcutta	Univ Calcutta
+2462	Anna University	Anna Univ
+2463	University of Hyderabad	Univ Hyderabad
+2466	Indian Institute of Technology Roorkee	Indian Inst Technol Roorkee
+2470	Annamalai University	Annamalai Univ
+2472	Jawaharlal Nehru University	Jawaharlal Nehru Univ
+2475	Indian Statistical Institute	Indian Stat Inst
+2478	Guru Nanak Dev University	Guru Nanak Dev Univ
+2489	Bharathiar University	Bharathiar Univ
+2490	Jamia Millia Islamia	Jamia Millia Islamia
+2491	Savitribai Phule Pune University	Savitribai Phule Pune Univ
+2499	Indian Institute of Technology Guwahati	Indian Inst Technol Guwahati
+2515	Pondicherry University	Pondicherry Univ
+2525	Mahidol University	Mahidol Univ
+2529	Chiang Mai University	Chiang Mai Univ
+2531	Chulalongkorn University	Chulalongkorn Univ
+2533	Khon Kaen University	Khon Kaen Univ
+2535	Prince of Songkla University	Prince Songkla Univ
+2537	Kasetsart University	Kasetsart Univ
+2546	Université Paris-Est Créteil Val de Marne	Univ Paris-Est Créteil Val de Marne
+2578	Université Sorbonne Paris Nord	Univ Sorbonne Paris Nord
+2580	Université de Versailles Saint-Quentin-en-Yvelines	Univ Versailles Saint-Quentin-en-Yvelines
+2594	Université de Tours	Univ Tours
+2596	Université de Nantes	Univ Nantes
+2604	University of Caen Normandy	Univ Caen Normandy
+2621	University of Poitiers	Univ Poitiers
+2625	University of Rennes 1	Univ Rennes 1
+2630	University of Rouen	Univ Rouen
+2634	University of Strasbourg	Univ Strasbourg
+2638	Université Toulouse III - Paul Sabatier	Univ Toulouse III - Paul Sabatier
+2641	Aix-Marseille University	Aix-Marseille Univ
+2660	University of Angers	Univ Angers
+2662	Claude Bernard Lyon 1 University	Claude Bernard Lyon 1 Univ
+2683	University of Western Brittany	Univ West Brittany
+2701	Université de Lorraine	Univ Lorraine
+2703	University of Orléans	Univ Orléans
+2779	Institut National Polytechnique de Toulouse	Inst Natl Polytech Toulouse
+2812	University of Waikato	Univ Waikato
+2856	Chung-Ang University	Chung-Ang Univ
+2874	National Research Tomsk Polytechnic University	Natl Res Tomsk Polytech Univ
+2881	Moscow Institute of Physics and Technology	Moscow Inst Phys & Technol
+2943	Swinburne University of Technology	Swinburne Univ Technol
+2944	University of Canberra	Univ Canberra
+2945	Western Sydney University	West Sydney Univ
+3327	Soochow University	Soochow Univ
+3328	University of Electronic Science and Technology of China	Univ Electron Sci & Technol China
+3329	Capital Medical University	Capital Med Univ
+3330	Air Force Medical University	Air Force Med Univ
+3331	Chongqing University	Chongqing Univ
+3332	Beijing University of Chemical Technology	Beijing Univ Chem Technol
+3333	Second Military Medical University	Second Mil Med Univ
+3334	Beijing Institute of Technology	Beijing Inst Technol
+3335	Nanjing Medical University	Nanjing Med Univ
+3336	Beihang University	Beihang Univ
+3337	Huazhong Agricultural University	Huazhong Agr Univ
+3338	China Medical University	China Med Univ
+3339	Nanjing Agricultural University	Nanjing Agr Univ
+3340	Zhengzhou University	Zhengzhou Univ
+3341	Xidian University	Xidian Univ
+3342	Army Medical University	Army Med Univ
+3343	Nanjing University of Aeronautics and Astronautics	Nanjing Univ Aeronaut & Astronaut
+3344	South China Normal University	S China Normal Univ
+3345	Northeast Normal University	Northeast Normal Univ
+3346	Nanjing University of Science and Technology	Nanjing Univ Sci & Technol
+3347	Nanjing Tech University	Nanjing Tech Univ
+3348	National University of Defense Technology	Natl Univ Defense Technol
+3349	Donghua University	Donghua Univ
+3350	Ocean University of China	Ocean Univ China
+3351	Northeastern University	Northeastern Univ
+3352	Jiangsu University	Jiangsu Univ
+3353	Southwest University	Southwest Univ
+3354	China Pharmaceutical University	China Pharmaceut Univ
+3356	Northwest Agriculture & Forestry University	Northwest Agr & Forestry Univ
+3357	Zhejiang University of Technology	Zhejiang Univ Technol
+3358	Beijing University of Technology	Beijing Univ Technol
+3359	Wuhan University of Technology	Wuhan Univ Technol
+3360	Harbin Medical University	Harbin Med Univ
+3361	Fuzhou University	Fuzhou Univ
+3362	Jinan University	Jinan Univ
+3363	Chongqing Medical University	Chongqing Med Univ
+3364	Beijing Jiaotong University	Beijing Jiaotong Univ
+3365	Peking Union Medical College	Peking Union Med Coll
+3366	Nanjing Normal University	Nanjing Normal Univ
+3367	Nanchang University	Nanchang Univ
+3368	Shaanxi Normal University	Shaanxi Normal Univ
+3369	Xiangtan University	Xiangtan Univ
+3370	Southern Medical University	South Med Univ
+3371	Beijing University of Posts & Telecommunications	Beijing Univ Posts & Telecom
+3372	Zhejiang Normal University	Zhejiang Normal Univ
+3373	South China Agricultural University	S China Agr Univ
+3374	Yangzhou University	Yangzhou Univ
+3375	Southwest Jiaotong University	Southwest Jiaotong Univ
+3376	Tianjin Medical University	Tianjin Med Univ
+3379	Qingdao University of Science & Technology	Qingdao Univ Sci & Technol
+3380	China University of Geosciences	China Univ Geosci
+3381	Central China Normal University	Cent China Normal Univ
+3382	Yunnan University	Yunnan Univ
+3383	Henan University	Henan Univ
+3384	Shanxi University	Shanxi Univ
+3385	Shanghai Normal University	Shanghai Normal Univ
+3386	Anhui Medical University	Anhui Med Univ
+3387	Shenyang Pharmaceutical University	Shenyang Pharmaceut Univ
+3388	Harbin Engineering University	Harbin Engn Univ
+3389	Hunan Normal University	Hunan Normal Univ
+3390	Shandong Agricultural University	Shandong Agr Univ
+3391	Ningbo University	Ningbo Univ
+3392	Northwest University	Northwest Univ
+3393	Henan Normal University	Henan Normal Univ
+3394	Hefei University of Technology	Hefei Univ Technol
+3395	Qingdao University	Qingdao Univ
+3396	Yanshan University	Yanshan Univ
+3397	Wenzhou Medical University	Wenzhou Med Univ
+3398	Capital Normal University	Capital Normal Univ
+3399	Northeast Forestry University	Northeast Forestry Univ
+3400	Hebei University	Hebei Univ
+3401	Guangxi University	Guangxi Univ
+3402	University of Jinan	Univ Jinan
+3403	Northwest Normal University	Northwest Normal Univ
+3404	Anhui Normal University	Anhui Normal Univ
+3405	Liaocheng University	Liaocheng Univ
+3406	Anhui University	Anhui Univ
+3407	Shandong Normal University	Shandong Normal Univ
+3408	Hebei Medical University	Hebei Med Univ
+3409	Nantong University	Nantong Univ
+3410	China University of Mining and Technology	China Univ Min & Technol
+3411	Shantou University	Shantou Univ
+3413	Hohai University	Hohai Univ
+3414	Hangzhou Normal University	Hangzhou Normal Univ
+3415	Hong Kong Baptist University	Hong Kong Baptist Univ
+3416	China University of Petroleum Beijing	China Univ Petrol Beijing
+3417	Zhejiang Sci-Tech University	Zhejiang Sci-Tech Univ
+3418	Beijing Forestry University	Beijing Forestry Univ
+3419	Kunming University of Science & Technology	Kunming Univ Sci & Technol
+3420	Taiyuan University of Technology	Taiyuan Univ Technol
+3421	North China Electric Power University	N China Elect Power Univ
+3422	Wenzhou University	Wenzhou Univ
+3423	Tianjin Polytechnic University	Tianjin Polytech Univ
+3456	University of Wyoming	Univ Wyoming
+3470	North Dakota State University	N Dakota State Univ
+3471	University of Nebraska Medical Center	Univ Nebraska Med Ctr
+3472	University of North Texas	Univ N Texas
+3475	Lehigh University	Lehigh Univ
+3476	Ohio University	Ohio Univ
+3477	Montana State University	Montana State Univ
+3479	Southern Illinois University, Carbondale	South Illinois Univ - Carbondale
+3481	University of Akron	Univ Akron
+3482	University of Nevada, Las Vegas	Univ Nevada - Las Vegas
+3483	University of North Carolina, Charlotte	Univ N Carolina - Charlotte
+3484	Kent State University	Kent State Univ
+3485	Boston College	Boston Coll
+3486	New Mexico State University	New Mexico State Univ
+3487	Loma Linda University	Loma Linda Univ
+3488	University of Missouri, Kansas City	Univ Missouri - Kansas City
+3490	University of Idaho	Univ Idaho
+3491	University of Memphis	Univ Memphis
+3492	Binghamton University, State University of New York	Binghamton Univ - SUNY
+3494	Michigan Technological University	Michigan Technol Univ
+3495	Missouri University of Science & Technology	Missouri Univ Sci & Technol
+3496	Old Dominion University	Old Dominion Univ
+3497	Colorado School of Mines	Colorado Sch Mines
+3498	Uniformed Services University of the Health Sciences	Uniformed Services Univ Hlth Sci
+3499	Miami University	Miami Univ
+3500	University of Maine, Orono	Univ Maine - Orono
+3502	Portland State University	Portland State Univ
+3503	University of Rhode Island	Univ Rhode Island
+3506	University of Maryland, Baltimore County	Univ Maryland - Baltimore County
+3507	University of Montana	Univ Montana
+3508	New Jersey Institute of Technology	New Jersey Inst Technol
+3509	Illinois Institute of Technology	Illinois Inst Technol
+3510	College of William and Mary	Coll William & Mary
+3512	Marquette University	Marquette Univ
+3514	Florida Atlantic University	Florida Atlantic Univ
+3515	University of North Carolina, Greensboro	Univ N Carolina - Greensboro
+3516	University of North Dakota	Univ N Dakota
+3517	Baylor University	Baylor Univ
+3518	University of Alaska, Fairbanks	Univ Alaska - Fairbanks
+3524	Southern Methodist University	Southern Methodist Univ
+3527	University of Denver	Univ Denver
+3528	South Dakota State University	S Dakota State Univ
+3532	Oakland University	Oakland Univ
+3537	Rochester Institute of Technology	Rochester Inst Technol
+3573	Ryerson University	Ryerson Univ
+3574	University of New Brunswick	Univ New Brunswick
+3581	Brock University	Brock Univ
+3582	University of Regina	Univ Regina
+3634	University of Toyama	Univ Toyama
+3635	Tokyo Women's Medical University	Tokyo Women's Med Univ
+3636	Nagoya City University	Nagoya City Univ
+3637	Kyoto Prefectural University of Medicine	Kyoto Prefect Univ Med
+3638	Tokyo University of Science	Tokyo Univ Sci
+3642	Osaka Prefecture University	Osaka Prefect Univ
+3645	Jichi Medical University	Jichi Med Univ
+3650	Hirosaki University	Hirosaki Univ
+3656	Tokyo Metropolitan University	Tokyo Metropolitan Univ
+3687	Curtin University	Curtin Univ
+3688	Deakin University	Deakin Univ
+3689	University of New England	Univ New England
+3690	Murdoch University	Murdoch Univ
+3691	Victoria University, Melbourne	Victoria Univ - Melbourne
+3705	National University of Cordoba	Natl Univ Cordoba
+3707	Universidad de Concepción	Univ Concepción
+3708	Universidad Nacional de Colombia	Univ Natl Colombia
+3709	Mansoura University	Mansoura Univ
+3711	Zagazig University	Zagazig Univ
+3712	Assiut University	Assiut Univ
+3715	Ferdowsi University of Mashhad	Ferdowsi Univ Mashhad
+3716	K.N. Toosi University of Technology	KN Toosi Univ Technol
+3717	Shahid Beheshti University	Shahid Beheshti Univ
+3718	University of Isfahan	Univ Isfahan
+3719	Bu-Ali Sina University	Bu-Ali Sina Univ
+3720	Razi University	Razi Univ
+3721	Tabriz University of Medical Sciences	Tabriz Univ Med Sci
+3722	University of Guilan	Univ Guilan
+3723	Jordan University of Science & Technology	Jordan Univ Sci & Technol
+3724	University of Jordan	Univ Jordan
+3726	Kuwait University	Kuwait Univ
+3727	American University of Beirut	American Univ Beirut
+3728	Universiti Putra Malaysia	Univ Putra Malaysia
+3729	National Polytechnic Institute, Mexico	Natl Polytech Inst - Mexico
+3730	Victoria University of Wellington	Victoria Univ Wellington
+3736	University of Nis	Univ Nis
+3737	Gyeongsang National University	Gyeongsang Natl Univ
+3739	Sogang University	Sogang Univ
+3740	Kangwon National University	Kangwon Natl Univ
+3742	Pukyong National University	Pukyong Natl Univ
+3743	Gwangju Institute of Science & Technology	Gwangju Inst Sci & Technol
+3744	Chungbuk National University	Chungbuk Natl Univ
+3746	Chosun University	Chosun Univ
+3748	Sejong University	Sejong Univ
+3749	Dong-a University	Dong-a Univ
+3751	Kwangwoon University	Kwangwoon Univ
+3753	China Medical University, Taiwan	China Med Univ - Taiwan
+3755	National Taipei University of Technology	Natl Taipei Univ Technol
+3756	Taipei Medical University	Taipei Med Univ
+3758	Feng Chia University	Feng Chia Univ
+3759	Chung Yuan Christian University	Chung Yuan Christian Univ
+3760	National Chung Cheng University	National Chung Cheng Univ
+3761	National Taiwan Normal University	Natl Taiwan Normal Univ
+3762	Chung Shan Medical University	Chung Shan Med Univ
+3765	Universidad de la República	Univ Republic
+6003	Universidade Federal do ABC	Univ Fed ABC
+6071	Universidade Federal de Juiz de Fora	Univ Fed Juiz de Fora
+6080	Universidade Federal do Espírito Santo	Univ Fed Espírito Santo
+7268	University of Bordeaux	Univ Bordeaux
+9274	Université des Sciences et de la Technologie Houari Boumediene	Univ Sci Technol Houari Boumediene
+9301	University of Ghana	Univ Ghana
+9308	Makerere University	Makerere Univ
+9424	University of Antioquia	Univ Antioquia
+9428	Universidad de los Andes	Univ Los Andes Colombia
+9430	Tanta University	Tanta Univ
+9438	Thapar Institute of Engineering and Technology	Thapar Inst Engn & Technol
+9439	Institute of Chemical Technology	Inst Chem Technol
+9440	National Institute of Technology Rourkela	Natl Inst Technol Rourkela
+9444	Mashhad University of Medical Sciences	Mashhad Univ Med Sci
+9462	University of Kashan	Univ Kashan
+9463	Isfahan University of Medical Sciences	Isfahan Univ Med Sci
+9485	Shahid Bahonar University of Kerman	Shahid Bahonar Univ Kerman
+9486	Urmia University	Urmia Univ
+9487	Yazd University	Yazd Univ
+9488	University of Shahrood	Univ Shahrood
+9489	University of Mazandaran	Univ Mazandaran
+9490	Semnan University	Semnan Univ
+9491	Islamic Azad University Science & Research Tehran	Islamic Azad Univ Sci & Res Tehran
+9501	Shizuoka University	Shizuoka Univ
+9508	Shimane University	Shimane Univ
+9515	Toho University	Toho Univ
+9530	Ritsumeikan University	Ritsumeikan Univ
+9532	Nara Institute of Science and Technology	Nara Inst Sci & Technol
+9541	Northeast Agricultural University	Northeast Agr Univ
+9550	Universiti Teknologi Malaysia	Univ Tek Malaysia
+9560	Universidad Autónoma Metropolitana	Univ Aut Met
+9568	Tecnológico de Monterrey (ITESM)	Technol Monterrey ITESM
+9570	University of Ibadan	Univ Ibadan
+9575	Sultan Qaboos University	Sultan Qaboos Univ
+9580	University of the Punjab	Univ Punjab
+9581	University of Karachi	Univ Karachi
+9582	University of Agriculture Faisalabad	Univ Agr Faisalabad
+9589	Sichuan Agricultural University	Sichuan Agr Univ
+9590	China Academy of Chinese Medical Sciences	China Acad Chin Med Sci
+9592	Jiangnan University	Jiangnan Univ
+9594	Shenzhen University	Shenzhen Univ
+9596	Renmin University of China	Renmin Univ China
+9597	Guangxi Medical University	Guangxi Med Univ
+9600	Fujian Medical University	Fujian Med Univ
+9604	Guangdong University of Technology	Guangdong Univ Technol
+9606	China Jiliang University	China Jiliang Univ
+9610	Nanjing University of Information Science and Technology	Nanjing Univ Info Sci & Technol
+9612	Dalian Medical University	Dalian Med Univ
+9614	Tianjin University of Science and Technology	Tianjin Univ Sci & Technol
+9616	Jiangxi Normal University	Jiangxi Normal Univ
+9618	Hubei University	Hubei Univ
+9620	Xinjiang University	Xinjiang Univ
+9624	Hebei University of Technology	Hebei Univ Technol
+9626	Fujian Normal University	Fujian Normal Univ
+9628	Heilongjiang University	Heilongjiang Univ
+9630	Zhejiang Gongshang University	Zhejiang Gongshang Univ
+9632	Shanghai University of Traditional Chinese Medicine	Shanghai Univ Tradit Chinese Med
+9636	Nanjing University of Posts and Telecommunications	Nanjing Univ Posts & Telecom
+9640	Guangxi Normal University	Guangxi Normal Univ
+9642	Guangzhou Medical University	Guangzhou Med Univ
+9650	Henan University of Science and Technology	Henan Univ Sci & Technol
+9652	Shandong University of Technology	Shandong Univ Technol
+9654	Guizhou University	Guizhou Univ
+9658	Changzhou University	Changzhou Univ
+9662	Nanjing Forestry University	Nanjing Forestry Univ
+9664	Tianjin Normal University	Tianjin Normal Univ
+9666	Anhui University of Technology	Anhui Univ Technol
+9668	Shaanxi University of Science & Technology	Shaanxi Univ Sci & Technol
+9670	Shanghai Ocean University	Shanghai Ocean Univ
+9674	Lanzhou University of Technology	Lanzhou Univ Technol
+9676	Hangzhou Dianzi University	Hangzhou Dianzi Univ
+9678	China University of Petroleum East China	China Univ Petrol E China
+9680	North University of China	N Univ China
+9682	Henan Polytechnic University	Henan Polytech Univ
+9692	Novosibirsk State University	Novosibirsk State Univ
+9694	National Research Nuclear University MEPhI	Moscow Engn Phys Inst
+9695	King Khalid University	King Khalid Univ
+9696	King Abdullah University of Science and Technology	King Abdullah Univ Sci & Technol
+9700	Yeungnam University	Yeungnam Univ
+9704	University of Seoul	Univ Seoul
+9709	Keimyung University	Keimyung Univ
+9711	Dankook University	Dankook Univ
+9713	Hallym University	Hallym Univ
+9723	Dongguk University	Dongguk Univ
+9725	Hongik University	Hongik Univ
+9726	Inje University	Inje Univ
+9732	Seoul National University of Science and Technology	Seoul Ntl Univ Sci & Technol
+9734	University of Science and Technology	Univ Sci & Technol
+9790	National Taiwan Ocean University	Natl Taiwan Ocean Univ
+9794	National Defense Medical Center	Natl Def Med Ctr
+9812	United Arab Emirates University	United Arab Emirates Univ
+9814	University of Massachusetts Boston	Univ Massachusetts Boston
+9818	University of Massachusetts Lowell	Univ Massachusetts Lowell
+9826	Rutgers, The State University of New Jersey	Rutgers - State Univ New Jersey
+9950	Iran University of Medical Sciences	Iran Univ Med Sci
+10000	Qatar University	Qatar Univ
+10058	ITMO University	ITMO Univ
+10060	Kazan (Volga region) Federal University	Kazan (Volga region) Fed Univ
+10084	Ural Federal University	Ural Fed Univ
+10109	University of Calabria	Univ Calabria
+10113	Augusta University	Augusta Univ
+10261	COMSATS Institute of Information Technology	COMSATS Inst Info Technol
+10267	Edith Cowan University	Edith Cowan Univ
+10324	Inner Mongolia University	Inner Mongolia Univ
+10325	Wuhan University of Science and Technology	Wuhan Univ Sci & Technol
+10326	GuangZhou University	GuangZhou Univ
+10327	Xuzhou Medical College	Xuzhou Med Coll
+10329	Changsha University of Science and Technology	Changsha Univ Sci & Technol
+10330	Xi'An University of Technology	Xi'An Univ Technol
+10331	Qufu Normal University	Qufu Normal Univ
+10332	Dalian Maritime University	Dalian Maritime Univ
+10333	Nanjing University of Chinese Medicine	Nanjing Univ Chin Med
+10335	Henan Agricultural University	Henan Agr Univ
+10336	Jiangsu Normal University	Jiangsu Normal Univ
+10337	Tianjin University of Technology	Tianjin Univ Technol
+10338	Shandong University of Science and Technology	Shandong Univ Sci & Technol
+10339	Beijing University of Chinese Medicine	Beijing Univ Chin Med
+10344	University of Montpellier	Univ Montpellier
+10345	Australian Catholic University	Australian Cath Univ
+10432	University of Lille	Univ Lille
+10435	University of the Chinese Academy of Sciences	Univ Chinese Acad Sci
+10445	Mohammed V University	Mohammed V Univ
+10548	Gustave Eiffel University	Gustave Eiffel Univ
+10551	Université de Paris	Univ Paris
+10552	Institut Polytechnique de Paris	Inst Polytech Paris
+10553	Université Paris-Saclay	Univ Paris-Saclay
+10554	Université Paris Sciences et Lettres	Univ Paris Sci Lettres
+10560	Université Côte d’Azur	Univ Côte d’Azur
+10561	Université Grenoble Alpes	Univ Grenoble Alpes
+16188	Ulsan National Institute of Science and Technology	Ulsan Natl Inst Sci & Technol
+16435	Jeju National University	Jeju Natl Univ
+16437	Tezpur University	Tezpur Univ
+16441	University of Yamanashi	Univ Yamanashi
+16445	Indian Institute of Technology (Indian School of Mines)	Indian Inst Technol (Indian Sch Mines)
+16446	Addis Ababa University	Addis Ababa Univ
+16482	Institut National de la Recherche Scientifique	Inst Natl Recherche Sci
+18000	Southwest Petroleum University	Southwest Petrol Univ
+18001	University of Shanghai for Science and Technology	Univ Shanghai Sci & Technol
+18002	Fujian Agriculture and Forestry University	Fujian Agr & Forestry Univ
+18003	Xinjiang Medical University	Xinjiang Med Univ
+18004	Chang’an University	Chang'an Univ
+18005	Anhui Agricultural University	Anhui Agr Univ
+18006	Huaqiao University	Huaqiao Univ
+18008	Harbin University of Science and Technology	Harbin Univ Sci & Technol
+18010	Southwest University of Science and Technology	Southwest Univ Sci & Technol
+18012	Xi'an University of Architecture and Technology	Xi'an Univ Arch & Technol
+18015	Qingdao Agricultural University	Qingdao Agr Univ
+18016	Henan University of Technology	Henan Univ Technol
+18017	Guilin University of Technology	Guilin Univ Technol
+18020	Shihezi University	Shihezi Univ
+18021	Chengdu University of Technology	Chengdu Univ Technol
+18023	Shanxi Medical University	Shanxi Med Univ
+18026	Hunan Agricultural University	Hunan Agr Univ
+18028	Kunming Medical University	Kunming Med Univ
+18030	China Three Gorges University	China Three Gorges Univ
+18031	Xinxiang Medical University	Xinxiang Med Univ
+18032	Hunan University of Science and Technology	Hunan Univ Sci & Technol
+18033	South Central University for Nationalities	S Cent Univ Nationalities
+18034	Guangdong Pharmaceutical University	Guangdong Pharmaceut Univ
+18036	Wuhan Institute of Technology	Wuhan Institute Technol
+18037	Hainan University	Hainan Univ
+18040	JiLin Agriculture University	JiLin Agr Univ
+18041	North China University of Science and Technology	N China Univ Sci & Technol
+18043	University of South China	Univ S China
+18053	Babol Noshirvani University of Technology	Babol Noshirvani Univ Technol
+18055	Sahand University of Technology	Sahand Univ Technol
+18058	University of Zanjan	Univ Zanjan
+18065	Universiti Teknologi Petronas	Univ Teknologi Petronas
+18066	National University of Sciences and Technology, Islamabad	Natl Univ Sci & Technol - Islamabad
+18069	Gachon University	Gachon Univ
+18072	Auckland University of Technology	Auckland Univ Technol
+18076	Université de Tunis El Manar	Univ Tunis El Manar
+18077	University of Monastir	Univ Monastir
+18085	Texas State University	Texas State Univ
+18090	Charles Sturt University	Charles Sturt Univ
+18430	University of California, Merced	Univ California - Merced
+18535	Zhejiang Chinese Medical University	Zhejiang Chinese Med Univ
+18537	Shenyang Agricultural University	Shenyang Agr Univ
+18540	Shanghai Maritime University	Shanghai Maritime Univ
+18542	Chongqing University of Posts and Telecommunications	Chongqing Univ Posts & Telecommun
+18546	Guangzhou University of Chinese Medicine	Guangzhou Univ Chinese Med
+18555	Al-Azhar University	Al-Azhar Univ
+18560	Shahid Chamran University of Ahwaz	Shahid Chamran Univ Ahwaz
+18565	Ariel University	Ariel Univ
+18584	Incheon National University	Incheon Natl Univ
+18682	Sorbonne University	Sorbonne Univ
+18685	University of the Sunshine Coast	Univ Sunshine Coast
+18700	Southern University of Science and Technology	South Univ Sci & Technol China
+18701	Anhui University of Science and Technology	Anhui Univ Sci & Technol
+18707	Beijing Technology and Business University	Beijing Technol & Business Univ
+18711	Yangtze University	Yangtze Univ
+18801	University of Nigeria	Univ Nigeria
+18891	Singapore University of Technology and Design	Singapore Univ Technol & Design
+18894	Ton Duc Thang University	Ton Duc Thang Univ
+18980	Daegu Gyeongbuk Institute of Science and Technology	Daegu Gyeongbuk Inst Sci & Technol DGIST
+18988	Khalifa University of Science and Technology	Khalifa Univ Sci & Technol
+19006	University of Clermont Auvergne	Univ Clermont-Auvergne
+19121	Malek Ashtar University of Technology	Malek Ashtar Univ Technol
+19130	Indian Institute of Technology Indore	Indian Inst Technol Indore
+19131	Homi Bhabha National Institute	Homi Bhabha Natl Inst
+19132	Academy of Scientific and Innovative Research	Acad Sci & Innovat Res
+19133	Indian Institute of Engineering Science and Technology, Shibpur	IIEST Shibpur
+19138	SRM Institute of Science and Technology	SRM Inst Sci & Technol
+32912	Universidade de Lisboa	Universidade Lisboa
+33166	University of Health Sciences	Univ Hlth Sci
+101154	Soonchunhyang University	Soonchunhyang Univ
+101177	Payame Noor University	Payame Noor Univ

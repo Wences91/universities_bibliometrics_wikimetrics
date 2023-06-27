@@ -1,0 +1,385 @@
+Country code	Country name	Language code
+AD	Andorra	ca
+AE	United Arab Emirates	ar
+AF	Afghanistan	fa
+AF	Afghanistan	ps
+AG	Antigua and Barbuda	en
+AI	Anguilla	en
+AL	Albania	sq
+AM	Armenia	hy
+AO	Angola	pt
+AQ	Antarctica	en
+AQ	Antarctica	es
+AQ	Antarctica	fr
+AQ	Antarctica	ru
+AR	Argentina	es
+AS	American Samoa	en
+AS	American Samoa	sm
+AT	Austria	de
+AU	Australia	en
+AW	Aruba	nl
+AW	Aruba	pap
+AX	Aland Islands	sv
+AZ	Azerbaijan	az
+BA	Bosnia and Herzegovina	bs
+BA	Bosnia and Herzegovina	hr
+BA	Bosnia and Herzegovina	sr
+BB	Barbados	en
+BD	Bangladesh	bn
+BE	Belgium	nl
+BE	Belgium	fr
+BE	Belgium	de
+BF	Burkina Faso	fr
+BG	Bulgaria	bg
+BH	Bahrain	ar
+BI	Burundi	fr
+BJ	Benin	fr
+BL	Saint-Barthélemy	fr
+BM	Bermuda	en
+BN	Brunei Darussalam	ms
+BO	Bolivia	es
+BO	Bolivia	qu
+BO	Bolivia	gn
+BO	Bolivia	ay
+BQ	Caribbean Netherlands	nl
+BR	Brazil	pt
+BS	Bahamas	en
+BT	Bhutan	dz
+BV	Bouvet Island	no
+BW	Botswana	en
+BW	Botswana	tn
+BY	Belarus	be
+BY	Belarus	ru
+BZ	Belize	en
+CA	Canada	en
+CA	Canada	fr
+CC	Cocos (Keeling) Islands	en
+CD	Democratic Republic of the Congo (Congo-Kinshasa, former Zaire)	fr
+CF	Centrafrican Republic	fr
+CF	Centrafrican Republic	sg
+CG	Republic of the Congo (Congo-Brazzaville)	fr
+CH	Switzerland	de
+CH	Switzerland	fr
+CH	Switzerland	it
+CH	Switzerland	rm
+CI	Côte d'Ivoire	fr
+CK	Cook Islands	en
+CK	Cook Islands	rar
+CL	Chile	es
+CM	Cameroon	fr
+CM	Cameroon	en
+CN	China	zh
+CO	Colombia	es
+CR	Costa Rica	es
+CU	Cuba	es
+CV	Cabo Verde	pt
+CW	Curaçao	nl
+CW	Curaçao	en
+CX	Christmas Island	en
+CY	Cyprus	el
+CY	Cyprus	tr
+CZ	Czech Republic	cs
+DE	Germany	de
+DJ	Djibouti	fr
+DJ	Djibouti	ar
+DJ	Djibouti	so
+DJ	Djibouti	aa
+DK	Denmark	da
+DM	Dominica	en
+DO	Dominican Republic	es
+DZ	Algeria	ar
+EC	Ecuador	es
+EE	Estonia	et
+EG	Egypt	ar
+EH	Western Sahara	ar
+EH	Western Sahara	es
+EH	Western Sahara	fr
+ER	Eritrea	ti
+ER	Eritrea	ar
+ER	Eritrea	en
+ES	Spain	ast
+ES	Spain	ca
+ES	Spain	es
+ES	Spain	eu
+ES	Spain	gl
+ET	Ethiopia	am
+ET	Ethiopia	om
+FI	Finland	fi
+FI	Finland	sv
+FI	Finland	se
+FJ	Fiji	en
+FK	Falkland Islands	en
+FM	Micronesia (Federated States of)	en
+FO	Faroe Islands	fo
+FO	Faroe Islands	da
+FR	France	fr
+GA	Gabon	fr
+GB	United Kingdom	en
+GB	United Kingdom	ga
+GB	United Kingdom	cy
+GB	United Kingdom	gd
+GB	United Kingdom	kw
+GD	Grenada	en
+GE	Georgia	ka
+GF	French Guiana	fr
+GG	Guernsey	en
+GH	Ghana	en
+GI	Gibraltar	en
+GL	Greenland	kl
+GL	Greenland	da
+GM	The Gambia	en
+GN	Guinea	fr
+GP	Guadeloupe	fr
+GQ	Equatorial Guinea	es
+GQ	Equatorial Guinea	fr
+GQ	Equatorial Guinea	pt
+GR	Greece	el
+GS	South Georgia and the South Sandwich Islands	en
+GT	Guatemala	es
+GU	Guam	en
+GU	Guam	ch
+GW	Guinea Bissau	pt
+GY	Guyana	en
+HK	Hong Kong (SAR of China)	zh
+HK	Hong Kong (SAR of China)	en
+HM	Heard Island and McDonald Islands	en
+HN	Honduras	es
+HR	Croatia	hr
+HT	Haiti	fr
+HT	Haiti	ht
+HU	Hungary	hu
+ID	Indonesia	id
+IE	Ireland	en
+IE	Ireland	ga
+IL	Israel	he
+IM	Isle of Man	en
+IN	India	hi
+IN	India	en
+IO	British Indian Ocean Territory	en
+IQ	Iraq	ar
+IQ	Iraq	ku
+IR	Iran	fa
+IS	Iceland	is
+IT	Italy	it
+IT	Italy	de
+IT	Italy	fr
+JE	Jersey	en
+JM	Jamaica	en
+JO	Jordan	ar
+JP	Japan	ja
+KE	Kenya	sw
+KE	Kenya	en
+KG	Kyrgyzstan	ky
+KG	Kyrgyzstan	ru
+KH	Cambodia	km
+KI	Kiribati	en
+KM	Comores	ar
+KM	Comores	fr
+KM	Comores	sw
+KN	Saint Kitts and Nevis	en
+KP	North Korea	ko
+KR	South Korea	ko
+KW	Kuwait	ar
+KY	Cayman Islands	en
+KZ	Kazakhstan	kk
+KZ	Kazakhstan	ru
+LA	Laos	lo
+LB	Lebanon	ar
+LB	Lebanon	fr
+LC	Saint Lucia	en
+LI	Liechtenstein	de
+LK	Sri Lanka	si
+LK	Sri Lanka	ta
+LR	Liberia	en
+LS	Lesotho	en
+LS	Lesotho	st
+LT	Lithuania	lt
+LU	Luxembourg	lb
+LU	Luxembourg	fr
+LU	Luxembourg	de
+LV	Latvia	lv
+LY	Libya	ar
+MA	Morocco	ar
+MA	Morocco	fr
+MA	Morocco	zgh
+MC	Monaco	fr
+MD	Moldova	ro
+MD	Moldova	ru
+MD	Moldova	uk
+ME	Montenegro	srp
+ME	Montenegro	sr
+ME	Montenegro	hr
+ME	Montenegro	bs
+ME	Montenegro	sq
+MF	Saint Martin (French part)	fr
+MG	Madagascar	mg
+MG	Madagascar	fr
+MH	Marshall Islands	en
+MH	Marshall Islands	mh
+MK	North Macedonia	mk
+ML	Mali	fr
+MM	Myanmar	my
+MN	Mongolia	mn
+MO	Macao (SAR of China)	zh
+MO	Macao (SAR of China)	pt
+MP	Northern Mariana Islands	en
+MP	Northern Mariana Islands	ch
+MQ	Martinique	fr
+MR	Mauritania	ar
+MR	Mauritania	fr
+MS	Montserrat	en
+MT	Malta	mt
+MT	Malta	en
+MU	Mauritius	mfe
+MU	Mauritius	fr
+MU	Mauritius	en
+MV	Maldives	dv
+MW	Malawi	en
+MW	Malawi	ny
+MX	Mexico	es
+MY	Malaysia	ms
+MZ	Mozambique	pt
+NA	Namibia	en
+NA	Namibia	sf
+NA	Namibia	de
+NC	New Caledonia	fr
+NE	Niger	fr
+NF	Norfolk Island	en
+NF	Norfolk Island	pih
+NG	Nigeria	en
+NI	Nicaragua	es
+NL	Netherlands	nl
+NO	Norway	nb
+NO	Norway	nn
+NO	Norway	no
+NO	Norway	se
+NP	Nepal	ne
+NR	Nauru	na
+NR	Nauru	en
+NU	Niue	niu
+NU	Niue	en
+NZ	New Zealand	mi
+NZ	New Zealand	en
+OM	Oman	ar
+PA	Panama	es
+PE	Peru	es
+PF	French Polynesia	fr
+PG	Papua New Guinea	en
+PG	Papua New Guinea	tpi
+PG	Papua New Guinea	ho
+PH	Philippines	en
+PH	Philippines	tl
+PK	Pakistan	en
+PK	Pakistan	ur
+PL	Poland	pl
+PM	Saint Pierre and Miquelon	fr
+PN	Pitcairn	en
+PN	Pitcairn	pih
+PR	Puerto Rico	es
+PR	Puerto Rico	en
+PS	Palestinian Territory	ar
+PS	Palestinian Territory	he
+PT	Portugal	pt
+PW	Palau	en
+PW	Palau	pau
+PW	Palau	ja
+PW	Palau	sov
+PW	Palau	tox
+PY	Paraguay	es
+PY	Paraguay	gn
+QA	Qatar	ar
+RE	Reunion	fr
+RO	Romania	ro
+RS	Serbia	sr
+RS	Serbia	sr-Latn
+RU	Russia	ru
+RW	Rwanda	rw
+RW	Rwanda	fr
+RW	Rwanda	en
+SA	Saudi Arabia	ar
+SB	Solomon Islands	en
+SC	Seychelles	fr
+SC	Seychelles	en
+SC	Seychelles	crs
+SD	Sudan	ar
+SD	Sudan	en
+SE	Sweden	sv
+SG	Singapore	zh
+SG	Singapore	en
+SG	Singapore	ms
+SG	Singapore	ta
+SH	Saint Helena	en
+SI	Slovenia	sl
+SJ	Svalbard and Jan Mayen	no
+SK	Slovakia	sk
+SL	Sierra Leone	en
+SM	San Marino	it
+SN	Sénégal	fr
+SO	Somalia	so
+SO	Somalia	ar
+SR	Suriname	nl
+ST	São Tomé and Príncipe	pt
+SS	South Sudan	en
+SV	El Salvador	es
+SX	Saint Martin (Dutch part)	nl
+SX	Saint Martin (Dutch part)	en
+SY	Syria	ar
+SZ	eSwatini	en
+SZ	eSwatini	ss
+TC	Turks and Caicos Islands	en
+TD	Chad	fr
+TD	Chad	ar
+TF	French Southern and Antarctic Lands	fr
+TG	Togo	fr
+TH	Thailand	th
+TJ	Tajikistan	tg
+TJ	Tajikistan	ru
+TK	Tokelau	tkl
+TK	Tokelau	en
+TK	Tokelau	sm
+TL	Timor-Leste	pt
+TL	Timor-Leste	tet
+TM	Turkmenistan	tk
+TN	Tunisia	ar
+TN	Tunisia	fr
+TO	Tonga	en
+TR	Turkey	tr
+TT	Trinidad and Tobago	en
+TV	Tuvalu	en
+TW	Taiwan	zh
+TZ	Tanzania	sw
+TZ	Tanzania	en
+UA	Ukraine	uk
+UG	Uganda	en
+UG	Uganda	sw
+UM	United States Minor Outlying Islands	en
+US	United States	en
+UY	Uruguay	es
+UZ	Uzbekistan	uz
+UZ	Uzbekistan	kaa
+VA	City of the Vatican	it
+VC	Saint Vincent and the Grenadines	en
+VE	Venezuela	es
+VG	British Virgin Islands	en
+VI	United States Virgin Islands	en
+VN	Viet Nam	vi
+VU	Vanuatu	bi
+VU	Vanuatu	en
+VU	Vanuatu	fr
+WF	Wallis and Futuna	fr
+WS	Samoa	sm
+WS	Samoa	en
+XK	Kosovo	en
+XK	Kosovo	af
+YE	Yemen	ar
+YT	Mayotte	fr
+ZA	South Africa	en
+ZA	South Africa	af
+ZA	South Africa	st
+ZA	South Africa	tn
+ZA	South Africa	xh
+ZA	South Africa	zu
+ZM	Zambia	en
+ZW	Zimbabwe	en
+ZW	Zimbabwe	sn
+ZW	Zimbabwe	nd
