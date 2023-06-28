@@ -10,7 +10,9 @@ This repository includes all data processing for the work "*How does the scienti
 * [Rodrigo Costas](https://orcid.org/0000-0002-7465-6462) (CWTS, [University of Leiden](https://ror.org/027bh9e22))
 
 ## Data
+Due to size, some data are not available in this repository, especially those related to the [Wikipedia Knowledge Graph dataset](https://doi.org/10.5281/zenodo.6346899).
 
+The final dataset generated using these scripts and used for the analysis is also available in [Zenodo](https://doi.org/10.5281/zenodo.8092480).
 
 ## Acknowledgements
 Adrián A. Díaz-Faes acknowledges research project PID2020-112837RJ-I00 funded by MCIN/AEI/ 10.13039/501100011033. A draft version of this paper was presented at 26th STI Conference (Granada, 2022). Wenceslao Arroyo-Machado has received funding from the Spanish Ministry of Universities under the FPU Grant (FPU18/05835)
