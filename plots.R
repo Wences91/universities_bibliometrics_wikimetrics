@@ -30,7 +30,7 @@ df <- read.delim2('data/full_leiden_wikipedia_spec_indicators.tsv', dec = '.')
 agg_values <- read.delim2('results/agg_values.tsv')
 
 biblio_ind_names <- c('P', 'Dimensions WoS', 'P collab', 'P industry collab',
-                      'P int collab', 'TCS', 'TNCS', 'P top 10', 'Topic specialisation bio',
+                      'P int collab', 'TCS', 'TNCS', 'P top 10%', 'Topic specialisation bio',
                       'Topic specialisation eng', 'Pa f mf')
 biblio_ind_names_org <- c('impact_P', 'dimensions_wos', 'collab_P', 'P_industry_collab',
                           'P_int_collab', 'TCS', 'TNCS', 'P_top10', 'topic_specialisation_bio',
