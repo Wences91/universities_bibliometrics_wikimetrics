@@ -225,9 +225,9 @@ ggplot() +
   scale_x_log10(labels = trans_format('log10', math_format(10^.x))) +
   scale_y_log10(labels = trans_format('log10', math_format(10^.x))) +
   scale_color_manual(values=c('Rest'='#4494c7','Local'='#e81b2f', 'Ivy League'='#00553d'),
-                     labels=c('Ivy League', 'Native universities', 'Foreign universities'),
+                     labels=c('Ivy League', 'Located in a country\nwhere the language\nis official', 'Located in a country\nwith a foreign language'),
                      guide=guide_legend(override.aes = list(size=4))) +
-  labs(x='International views', y='Local views', color='Universities') +
+  labs(x='International views', y='Language edition views', color='Universities') +
   annotation_logticks() +
   theme_bw()+
   facet_wrap(.~lang, scales = 'free', nrow = 2) +
